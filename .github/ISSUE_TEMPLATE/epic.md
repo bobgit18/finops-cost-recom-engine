@@ -1,12 +1,12 @@
 ---
 name: Epic
 about: High-level initiative for the Cost-Aware FinOps Recommendation Engine
-title: "Epic: Build FinOps Cost‑Aware Recommendation Engine"
+title: "Epic: "
 labels: ["epic", "finops"]
 assignees: []
 ---
 
-# Epic: {{ Build FinOps Cost‑Aware Recommendation Engine }}
+# Epic: {{ Epic Title }}
 
 ## 🎯 Goal
 Describe the FinOps business outcome this Epic delivers (e.g., reduce cloud waste, improve cost visibility, automate optimisation).
@@ -17,14 +17,9 @@ Provide context, scope, and boundaries for this FinOps initiative.
 ## 🧵 Parent / Portfolio Link (optional)
 - Parent Initiative: {{ Reference if applicable }}
 
-## 🧩 Features in this Epic 
-- [ ] #{{ Ingest and normalise cloud cost data }}
-- [ ] #{{ Implement ML‑based anomaly detection }}
-- [ ] #{{ Implement rule‑based FinOps recommendations }}
-- [ ] #{{ Build reporting & output layer }}
-- [ ] #{{ Build evaluation & validation framework }}
-- [ ] #{{ Build UI (Streamlit or notebook dashboard }}
-
+## 🧩 Features in this Epic
+- [ ] #{{ Feature ID }}
+- [ ] Add more as needed
 
 ## 🧪 Acceptance Criteria
 - [ ] Clear FinOps value defined
